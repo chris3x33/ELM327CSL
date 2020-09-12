@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HDx7vyLpNk05DjVQEw4KPO88EPJj4l6Zl5PexZyOrKp6IN7LHXi9rAHdPKJDj3DwkxHrAS2drcjvR6g/sCT1YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A4\\Documents\\coding\\Visual Studio\\c#\\Libs\\ELM327CSL\\ELM327CSL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A4\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\bin\Debug\netstandard2.0\ELM327CSL.deps.json
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\bin\Debug\netstandard2.0\ELM327CSL.dll
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\bin\Debug\netstandard2.0\ELM327CSL.pdb
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\obj\Debug\netstandard2.0\ELM327CSL.csprojAssemblyReference.cache
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\obj\Debug\netstandard2.0\ELM327CSL.AssemblyInfoInputs.cache
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\obj\Debug\netstandard2.0\ELM327CSL.AssemblyInfo.cs
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\obj\Debug\netstandard2.0\ELM327CSL.csproj.CoreCompileInputs.cache
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\obj\Debug\netstandard2.0\ELM327CSL.dll
+C:\Users\A4\Documents\coding\Visual Studio\c#\Libs\ELM327CSL\obj\Debug\netstandard2.0\ELM327CSL.pdb
